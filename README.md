@@ -7,7 +7,9 @@ This Streamlit dashboard displays client profession information including averag
 
 Data
 
-The dashboard displays data from a sample dataset containing client professions, ages, and spending habits.
+The dashboard displays data from a sample dataset containing client professions, ages, and point spending habits.
+![Screenshot 2024-05-19 183812](https://github.com/MuhammadUmer241/Customer-Streamlit-Dashboard/assets/156159700/570d1390-d7b4-48cf-a07b-2b2a32e4d23b)
+
 
 Metrics
 
